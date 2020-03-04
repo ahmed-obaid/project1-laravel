@@ -1,0 +1,39 @@
+ 
+
+.post{
+    
+    margin-left: 200px;
+   margin-top: 50px;
+
+}
+.post:hover{
+    
+   
+    border-top: 1px solid #4e555b;
+    border-bottom: 1px solid #4e555b;
+}
+title-post{
+    margin-top: 30px;
+}
+.bridge{
+    height: 5px;
+    width: 100%;
+    background-color: #e95353;
+    margin-top: 10px;
+}
+pull-right{
+    margin-right: 10px;
+}
+
+.login-page{
+    margin-top: 100px;
+    width: 300px;
+    
+}
+.login-page input{
+    margin-top: 10px;
+    
+}
+.namelogin{
+    color: #3490dc;
+}
